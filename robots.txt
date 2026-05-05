@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enricomo89.github.io/notes-xo7spl/sitemap.xml
